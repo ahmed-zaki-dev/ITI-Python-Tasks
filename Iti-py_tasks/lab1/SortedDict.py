@@ -1,3 +1,6 @@
+#Convert a list of names into sorted dictionary which key is the Alpha.
+#and value is a list of names corresponding to this alpha.
+
 list_names = ["Ahmed", "Ali", "Mohamed", "Tarek", "Zeyad"]
 list_names.sort()
 
